@@ -3,9 +3,9 @@ main = "src/index.ts"
 compatibility_date = "2023-12-18"
 
 [vars]
-TURSO_DB_AUTH_TOKEN = ""
-TURSO_DB_URL = ""
-EMAIL_DOMAIN = "vmail.dev"
+TURSO_DB_AUTH_TOKEN = "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJhIjoicnciLCJpYXQiOjE3MzIwODE2NzMsImlkIjoiYmQzNmQ2NWMtMDQxMC00YzJlLTk1N2EtZDJhZTFlZTgwNjIzIn0.LcUKuw7qRb-3vWuOx4Qr7P75Nmgp92RDTSQHQHSeHXI2xSHCqkQlad42mYwBxBNeWRdc-mCgLD9XQNMguU1MCw"
+TURSO_DB_URL = "libsql://vmail-zhangyangtao0102.turso.io"
+EMAIL_DOMAIN = "yangtao.us"
 
 # [[d1_databases]]
 # binding = "DB"
